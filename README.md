@@ -1,5 +1,6 @@
 # Introduction
 Ce projet est basé sur un contexte hospitalier qui concerne la localisation des équipements possedant un tag (RFID).
+Il a été livré dans le cadre de l'examen du BTS SIO option SLAM 2018
 # Fonctionnalités/Modules
 
 ### Trackpital - Client
