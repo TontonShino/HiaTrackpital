@@ -1,4 +1,6 @@
 # Introduction
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTontonShino%2FHiaTrackpital.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2FTontonShino%2FHiaTrackpital?ref=badge_shield)
+
 Ce projet est basé sur un contexte hospitalier qui concerne la localisation des équipements possedant un tag (RFID).
 Il a été livré dans le cadre de l'examen du BTS SIO option SLAM 2018
 # Fonctionnalités/Modules
@@ -28,3 +30,7 @@ Etat statut équipement rouge/vert/jaune
 - Mysql Server minimum 5.7.2(2) avec version BDD hia 2.0
 - .NET Framework 4.6.1 
 - Windows Server 2012 R2
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2FTontonShino%2FHiaTrackpital.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2FTontonShino%2FHiaTrackpital?ref=badge_large)
